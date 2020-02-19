@@ -12,8 +12,9 @@ import re
 
 def rm_paragraph_numbers(text):
     """
-    Currently taken from the source <> for testing judgement summarises. Please modify this function to adapt to our
-    requirements
+    Currently taken from the source https://github.com/Law-AI/summarization for testing judgement summarises.
+    Please modify this function to adapt to our requirements
+
     :param text: input text string containing paragraph numbers
     :type text: str
     :return: text with the paragraph numbers removed
@@ -24,8 +25,9 @@ def rm_paragraph_numbers(text):
 
 def rm_special_characters(text):
     """
-    Currently taken from the source <> for testing judgement summarises. Please modify this function to adapt to our
-    requirements
+    Currently taken from the source https://github.com/Law-AI/summarization for testing judgement summarises.
+    Please modify this function to adapt to our requirements
+
     :param text: input text string containing special characters
     :type text: str
     :return: text with the special characters removed
